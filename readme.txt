@@ -4,4 +4,5 @@ Git has a mutable index called  stage.
 Git tracks changes of files.
 Git  my boss is fillssssssss.
 create a new branch,it is name dev.
-create a new branch  is quick & simple.
+create a new branch is qukck and simple.
+
